@@ -1,4 +1,4 @@
-
+eai sou o theo baio
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theovbaio&show_icons=true&theme=radical)
@@ -24,3 +24,11 @@
  <a href="https://www.instagram.com/theo_baio_?igsh=ZmcwZzNnOHZlZWNj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
   <a href="https://www.linkedin.com/in/theo-vignotti-baio-851b21417?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+
+
+
+
+
+
