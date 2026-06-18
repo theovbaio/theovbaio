@@ -30,5 +30,5 @@ eai sou o theo baio
 
 
 
-
+# ![snake gif](https://github.com/theovbaio/theovbaio/blob/output/github-contribution-grid-snake.gif)
 
